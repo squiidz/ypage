@@ -1,0 +1,58 @@
+
+"summary": {
+        "what": "business",
+        "where": "Montreal",
+        "latitude": "45.5534868972",
+        "longitude": "-73.5795593262",
+        "firstListing": 1,
+        "lastListing": 5,
+        "totalListings": 764,
+        "pageCount": 153,
+        "currentPage": 1,
+        "listingsPerPage": 5,
+        "Prov": "QC"
+    },
+    "listings": [{
+        "id": "100551769",
+        "name": "Salut Bonjour Déjeuner Dîner",
+        "address": {
+            "street": "5169, rue Jean-Talon E",
+            "city": "Saint-Léonard",
+            "prov": "QC",
+            "pcode": "H1S 1K8"
+        },
+        "geoCode": {
+            "latitude": "45.5775861",
+            "longitude": "-73.5829596"
+        },
+        "distance": "2.7",
+        "parentId": "",
+        "isParent": false,
+        "content": {
+            "Video": {
+                "avail": false,
+                "inMkt": false
+            },
+            "Photo": {
+                "avail": true,
+                "inMkt": true
+            },
+            "Profile": {
+                "avail": true,
+                "inMkt": true
+            },
+            "DspAd": {
+                "avail": false,
+                "inMkt": false
+            },
+            "Logo": {
+                "avail": false,
+                "inMkt": false
+            },
+            "Url": {
+                "avail": true,
+                "inMkt": true
+            }
+        }
+    }]
+}
